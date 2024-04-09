@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\bin\Debug\userInputs.exe.config
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\bin\Debug\userInputs.exe
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\bin\Debug\userInputs.pdb
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.Form1.resources
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.Properties.Resources.resources
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.exe
+C:\Users\HP\source\repos\Lab4-2023.06.09\userInputs\obj\Debug\userInputs.pdb
